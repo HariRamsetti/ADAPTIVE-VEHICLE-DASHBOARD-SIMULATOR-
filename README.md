@@ -1,1 +1,1 @@
-# ADAPTIVE-VEHICLE-DASHBOARD-SIMULATOR-
+The Adaptive Vehicle Dashboard Simulator uses two LPC2129 microcontrollers communicating over the CAN bus. Node A acquires temperature, speed, and distance data using three sensors, detects headlight and indicator inputs via external interrupts, and packs the data into a single CAN frame.
